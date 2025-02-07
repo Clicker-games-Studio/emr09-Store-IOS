@@ -43,6 +43,7 @@
           <!-- Platform for iOS -->
           <key>platform-identifier</key>
           <string>com.apple.platform.iphoneos</string>
+          <string>com.apple.platform.ipad</string>
           <!-- The name of your app -->
           <key>title</key>
           <string>Flappy Bird SIGNED BY emr09</string> <!-- Change this to your app's name -->
