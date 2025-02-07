@@ -19,14 +19,14 @@
             <key>kind</key>
             <string>display-image</string>
             <key>url</key>
-            <string>https://yourserver.com/path/to/yourimage.png</string> <!-- Change this to your actual image URL -->
+            <string>https://clicker-games.netlify.app/logo.png</string> <!-- Change this to your actual image URL -->
           </dict>
           <!-- Update with your full-size image URL -->
           <dict>
             <key>kind</key>
             <string>full-size-image</string>
             <key>url</key>
-            <string>https://yourserver.com/path/to/yourimage.png</string> <!-- Same as display image -->
+            <string>https://clicker-games.netlify.app/logo.png</string> <!-- Same as display image -->
           </dict>
         </array>
         <key>metadata</key>
