@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://yourserver.com/path/to/yourapp.ipa</string> <!-- Change this to your actual IPA URL -->
+            <string>https://github.com/Clicker-games-Studio/emr09-Store-IOS/releases/download/Fappybird/app1.ipa</string> <!-- Change this to your actual IPA URL -->
           </dict>
           <!-- Update with your display image URL -->
           <dict>
