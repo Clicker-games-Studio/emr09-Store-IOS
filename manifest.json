@@ -1,0 +1,20 @@
+{
+    "name": "emr09store ios",
+    "short_name": "emr09store ios",
+    "start_url": "https://emr09store-ios.netlify.app/index.html",
+    "display": "standalone",
+    "background_color": "#f5f5f5",
+    "theme_color": "#42a944",
+    "icons": [
+        {
+            "src": "https://clicker-games.netlify.app/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://clicker-games.netlify.app/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
