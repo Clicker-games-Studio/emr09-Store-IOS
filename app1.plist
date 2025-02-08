@@ -16,15 +16,15 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>org.emr09.flappybird</string> <!-- Replace with your actual bundle ID -->
+                <string>org.emir.flappybird</string> <!-- Replace with your actual bundle ID -->
                 <key>bundle-version</key>
                 <string>3.8</string> <!-- Your app version -->
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Fappy bird SIGNED BY emr09</string> <!-- Your app name -->
+                <string>Flappy Bird SIGNED BY emr09</string> <!-- Your app name -->
                 <key>subtitle</key>
-                <string>Install My App</string> <!-- Subtitle (Optional) -->
+                <string>Flappy Bird SIGNED BY emr09</string> <!-- Subtitle (Optional) -->
                 <key>artwork</key> <!-- Adding an App Icon -->
                 <dict>
                     <key>kind</key>
