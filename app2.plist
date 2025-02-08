@@ -22,9 +22,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Esign</string> <!-- Your app name -->
+                <string>ESign</string> <!-- Your app name -->
                 <key>subtitle</key>
-                <string>INSTALLING ESIGN</string> <!-- Subtitle (Optional) -->
+                <string>ESign</string> <!-- Subtitle (Optional) -->
                 <key>artwork</key> <!-- Adding an App Icon -->
                 <dict>
                     <key>kind</key>
