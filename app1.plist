@@ -23,6 +23,15 @@
                 <string>software</string>
                 <key>title</key>
                 <string>My app</string> <!-- Your app name -->
+                <key>subtitle</key>
+                <string>Install My App</string> <!-- Subtitle (Optional) -->
+                <key>artwork</key> <!-- Adding an App Icon -->
+                <dict>
+                    <key>kind</key>
+                     <string>software-icon</string>
+                    <key>url</key>
+                    <string>https://emr09store-ios.netlify.app/app-icon.png</string> <!-- Your app icon URL -->
+                  </dict>
             </dict>
         </dict>
     </array>
