@@ -1,54 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
+<dict>
     <key>items</key>
     <array>
-      <dict>
-        <key>assets</key>
-        <array>
-          <!-- Update with your IPA file URL -->
-          <dict>
-            <key>kind</key>
-            <string>software-package</string>
-            <key>url</key>
-            <string>https://github.com/Clicker-games-Studio/emr09-Store-IOS/releases/download/Fappybird/app1.ipa</string> <!-- Change this to your actual IPA URL -->
-          </dict>
-          <!-- Update with your display image URL -->
-          <dict>
-            <key>kind</key>
-            <string>display-image</string>
-            <key>url</key>
-            <string>https://clicker-games.netlify.app/logo.png</string> <!-- Change this to your actual image URL -->
-          </dict>
-          <!-- Update with your full-size image URL -->
-          <dict>
-            <key>kind</key>
-            <string>full-size-image</string>
-            <key>url</key>
-            <string>https://clicker-games.netlify.app/logo.png</string> <!-- Same as display image -->
-          </dict>
-        </array>
-        <key>metadata</key>
         <dict>
-          <!-- Update with your bundle identifier -->
-          <key>bundle-identifier</key>
-          <string>org.emir.flappybird</string> <!-- Change this to your app's identifier -->
-          <!-- Update with your app version -->
-          <key>bundle-version</key>
-          <string>3.8</string> <!-- Change this to your app's version -->
-          <!-- The type of asset (software) -->
-          <key>kind</key>
-          <string>software</string>
-          <!-- Platform for iOS -->
-          <key>platform-identifier</key>
-          <string>com.apple.platform.iphoneos</string>
-          <string>com.apple.platform.ipad</string>
-          <!-- The name of your app -->
-          <key>title</key>
-          <string>Flappy Bird SIGNED BY emr09</string> <!-- Change this to your app's name -->
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://emr09store-ios.netlify.app/app1.ipa</string> <!-- Your actual IPA URL -->
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>org.emr09.flappybird</string> <!-- Replace with your actual bundle ID -->
+                <key>bundle-version</key>
+                <string>3.8</string> <!-- Your app version -->
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>My app</string> <!-- Your app name -->
+            </dict>
         </dict>
-      </dict>
     </array>
-  </dict>
+</dict>
 </plist>
