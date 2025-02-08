@@ -1,0 +1,39 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/Clicker-games-Studio/emr09-Store-IOS/releases/download/Esign/app2.ipa</string> <!-- Your actual IPA URL -->
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>ps3.xyz.yyyue.esign</string> <!-- Replace with your actual bundle ID -->
+                <key>bundle-version</key>
+                <string>5.0.2</string> <!-- Your app version -->
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Esign</string> <!-- Your app name -->
+                <key>subtitle</key>
+                <string>INSTALLING ESIGN</string> <!-- Subtitle (Optional) -->
+                <key>artwork</key> <!-- Adding an App Icon -->
+                <dict>
+                    <key>kind</key>
+                     <string>software-icon</string>
+                    <key>url</key>
+                    <string>https://clicker-games.netlify.app/logo.png</string> <!-- Your app icon URL -->
+                  </dict>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
